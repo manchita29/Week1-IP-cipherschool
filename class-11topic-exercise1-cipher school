@@ -1,0 +1,20 @@
+<!-- excersise1 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>MyBlog</h1><br>
+    <h3>My Blog Post1</h3>
+    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi, aliquam, repellendus provident doloremque sapiente alias consequuntur, quam quod laborum laudantium eos repellat ex quidem cumque perferendis labore iure. Voluptatum, ab!
+     </p>
+    
+    <h3>My Blog Post2</h3>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi veniam corrupti accusantium fuga rerum id quasi illum voluptas!</p>
+</body>
+</html>
